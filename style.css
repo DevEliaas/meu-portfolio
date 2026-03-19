@@ -25,3 +25,8 @@ img {
   width: 120px;
   border-radius: 8px;
 }
+
+ul{
+    list-style: none;
+    padding: 0;
+}
