@@ -70,3 +70,16 @@ li {
 img:hover {
   opacity: 0.8;
 }
+
+.card {
+  background-color: white;
+  border: 2px solid #2980b9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 16px;
+  transition: box-shadow 0.3;
+}
+
+.card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
