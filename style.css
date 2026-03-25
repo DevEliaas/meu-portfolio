@@ -125,3 +125,17 @@ footer {
   color: #888;
   font-size: 14px;
 }
+
+@media (max-width: 600px) {
+  main {
+    padding: 0 16px;
+  }
+}
+
+.habilidades-lista {
+  flex-wrap: wrap;
+}
+
+.contato-lista {
+  flex-direction: column;
+}
